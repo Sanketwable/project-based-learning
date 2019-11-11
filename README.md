@@ -11,6 +11,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Clojure](#clojure)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
+- [F#](#f)
 - [Go](#go)
 - [Haskell](#haskell)
 - [HTML/CSS](#html-and-css)
@@ -106,6 +107,15 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4 - libuv](https://eli.thegreenplace.net/2017/concurrent-servers-part-4-libuv/)
   - [Part 5 - Redis case study](https://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study/)
   - [Part 6 - Callbacks, Promises and async/await](https://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/)
+ 
+- MQTT Broker from scratch
+  - [Part 1 - The protocol](https://codepr.github.io/posts/sol-mqtt-broker)
+  - [Part 2 - Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)
+  - [Part 3 - Server](https://codepr.github.io/posts/sol-mqtt-broker-p3)
+  - [Part 4 - Data structures](https://codepr.github.io/posts/sol-mqtt-broker-p4)
+  - [Part 5 - Topic abstraction](https://codepr.github.io/posts/sol-mqtt-broker-p5)
+  - [Part 6 - Handlers](https://codepr.github.io/posts/sol-mqtt-broker-p6)
+  - [Bonus - Multithreading](https://codepr.github.io/posts/sol-mqtt-broker-bonus)
 
 ### OpenGL:
 
@@ -144,11 +154,16 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Elixir
 
 - [Building a Simple Chat App With Elixir and Phoenix](https://sheharyar.me/blog/simple-chat-phoenix-elixir/)
+- [How to write a super fast link shortener with Elixir, Phoenix, and Mnesia](https://medium.com/free-code-camp/how-to-write-a-super-fast-link-shortener-with-elixir-phoenix-and-mnesia-70ffa1564b3c)
 
 ## Erlang
 
 - [ChatBus : build your first multi-user chat room app with Erlang/OTP](https://medium.com/@kansi/chatbus-build-your-first-multi-user-chat-room-app-with-erlang-otp-b55f72064901)
 - [Making a Chat App with Erlang, Rebar, Cowboy and Bullet](http://marianoguerra.org/posts/making-a-chat-app-with-erlang-rebar-cowboy-and-bullet.html)
+
+## F#:
+
+- [Write your own Excel in 100 lines of F#](http://tomasp.net/blog/2018/write-your-own-excel)
 
 ## Java:
 
@@ -215,8 +230,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1](https://houssein.me/angular2-hacker-news)
   - [Part 2](https://houssein.me/progressive-angular-applications)
 - [Build a Google+ clone with Django and AngularJS (Angular 1.x)](https://thinkster.io/django-angularjs-tutorial)
-- Build A Beautiful Real World App with Angular 6 :
+- Build A Beautiful Real World App with Angular 8 :
   - [Part I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
+  - [Part II](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d)
+
 - [Build Responsive layout with BootStrap 4 and Angular 6](https://medium.com/@tomastrajan/how-to-build-responsive-layouts-with-bootstrap-4-and-angular-6-cfbb108d797b)
 - ToDo App with Angular 5
   - [Introduction to Angular](http://www.discoversdk.com/blog/intro-to-angular-and-the-evolution-of-the-web)
@@ -436,6 +453,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Transfer Learning for Image Classification using Keras](https://towardsdatascience.com/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8)
 - [Code a Smile Classifier using CNNS in Python](https://github.com/kylemcdonald/SmileCNN)
 - [Natural Language Processing using scikit-learn](https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e)
+- [Code a Taylor Swift Lyrics Generator](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e)
 
 ### Miscellaneous:
 
@@ -505,6 +523,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [The Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 - [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
 - [Build a Social Network using Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
+- [How To Build a Ruby on Rails Application](https://www.digitalocean.com/community/tutorials/how-to-build-a-ruby-on-rails-application)
 
 ## Haskell:
 
